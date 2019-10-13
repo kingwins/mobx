@@ -1,0 +1,11 @@
+body{
+  background: rgb(32,186,189);
+  background: radial-gradient(circle, rgb(82, 203, 206) 0%, rgb(94, 205, 224) 55%, rgb(31, 178, 206) 100%);
+  padding-bottom: 60px;
+}
+
+.main {
+  background: white;
+  padding: 30px;
+  margin-top: 100px;  
+}
